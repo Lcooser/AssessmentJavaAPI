@@ -1,4 +1,5 @@
-#Exemplo de CRUD com Spark Java
+Exemplo de CRUD com Spark Java
+
 Este é um exemplo simples de aplicação CRUD (Create, Read, Update, Delete) construída com o Spark Java. Ele demonstra como criar endpoints RESTful para gerenciar uma coleção de usuários.
 
 Pré-requisitos
